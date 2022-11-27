@@ -1,4 +1,4 @@
- ##### Notice
+##### Notice
  
 As Linux was not running well as Desktop + *2.7GHZ*, *4GB RAM*, the project did not reach any of final goals due to hardware inability.
  
